@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata minClientVersion="2.12">
-    <version>1.0.10</version>
+    <version>1.0.12</version>
     <id>Raven.CodeAnalysis</id>
     <description>Raven.CodeAnalysis</description>
-    <authors>Hibernating Rhinos</authors>
+    <authors>RavenDB</authors>
   </metadata>
   <files>
     <file src="Raven.CodeAnalysis\bin\Release\netstandard2.0\Raven.CodeAnalysis.dll" target="analyzers\dotnet\cs\" />
